@@ -1,0 +1,1 @@
+2025-04-28 00:06:12,486 - core.unzipper - ERROR - Erro inesperado ao descompactar dea_fut_xls_2025.zip: [WinError 183] Não é possível criar um arquivo já existente: 'D:\\Projetos Python\\cftc_cot_data\\data\\processed\\annual.xls' -> 'D:\\Projetos Python\\cftc_cot_data\\data\\processed\\2025.xls'
