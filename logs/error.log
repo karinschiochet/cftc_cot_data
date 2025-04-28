@@ -1,1 +1,2 @@
 2025-04-28 00:06:12,486 - core.unzipper - ERROR - Erro inesperado ao descompactar dea_fut_xls_2025.zip: [WinError 183] Não é possível criar um arquivo já existente: 'D:\\Projetos Python\\cftc_cot_data\\data\\processed\\annual.xls' -> 'D:\\Projetos Python\\cftc_cot_data\\data\\processed\\2025.xls'
+2025-04-28 09:09:01,606 - core.processor - ERROR - Erro ao processar arquivos: Missing optional dependency 'xlrd'. Install xlrd >= 2.0.1 for xls Excel support Use pip or conda to install xlrd.

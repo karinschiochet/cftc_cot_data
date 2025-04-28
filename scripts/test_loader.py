@@ -8,10 +8,11 @@ PROJECT_ROOT = os.path.dirname(SCRIPT_DIR)
 # Adiciona o diretório raiz ao sys.path
 sys.path.insert(0, PROJECT_ROOT)
 
-from core.unzipper import Unzipper
+from core.loader import CotDataLoader
 
 if __name__ == "__main__":
-    unzipper = Unzipper()
-    zip_filename = "dea_fut_xls_2025.zip"  # O nome do arquivo ZIP que você baixou
-
-    unzipper.unzip_file(zip_filename)
+    loader = CotDataLoader()
+    df = loader.load_data()
+    print(df.head())
+    print(df.columns)
+    print(df.info)

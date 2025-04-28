@@ -8,3 +8,80 @@
 2025-04-28 00:11:50,653 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
 2025-04-28 00:11:50,684 - core.unzipper - INFO - Arquivo 2025.xls já existe, substituindo...
 2025-04-28 00:11:50,685 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2025.xls
+2025-04-28 08:52:01,742 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2010.zip...
+2025-04-28 08:52:01,744 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:52:01,811 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2010.xls
+2025-04-28 08:52:14,646 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2011.zip...
+2025-04-28 08:52:14,647 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:52:14,772 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2011.xls
+2025-04-28 08:52:24,849 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2012.zip...
+2025-04-28 08:52:24,850 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:52:24,892 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2012.xls
+2025-04-28 08:52:31,939 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2013.zip...
+2025-04-28 08:52:31,940 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:52:31,989 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2013.xls
+2025-04-28 08:53:01,048 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2014.zip...
+2025-04-28 08:53:01,049 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:53:01,106 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2014.xls
+2025-04-28 08:53:18,631 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2015.zip...
+2025-04-28 08:53:18,632 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:53:18,794 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2015.xls
+2025-04-28 08:53:37,476 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2016.zip...
+2025-04-28 08:53:37,477 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:53:37,624 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2016.xls
+2025-04-28 08:53:43,056 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2017.zip...
+2025-04-28 08:53:43,057 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:53:43,147 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2017.xls
+2025-04-28 08:53:48,772 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2018.zip...
+2025-04-28 08:53:48,774 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:53:48,876 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2018.xls
+2025-04-28 08:53:57,165 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2019.zip...
+2025-04-28 08:53:57,166 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:53:57,268 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2019.xls
+2025-04-28 08:54:04,496 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2020.zip...
+2025-04-28 08:54:04,497 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:54:04,593 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2020.xls
+2025-04-28 08:54:12,010 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2021.zip...
+2025-04-28 08:54:12,011 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:54:12,158 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2021.xls
+2025-04-28 08:54:19,796 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2022.zip...
+2025-04-28 08:54:19,797 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:54:19,903 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2022.xls
+2025-04-28 08:54:31,475 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2023.zip...
+2025-04-28 08:54:31,476 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:54:31,606 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2023.xls
+2025-04-28 08:54:45,894 - core.unzipper - INFO - Iniciando a descompactação do arquivo dea_fut_xls_2024.zip...
+2025-04-28 08:54:45,895 - core.unzipper - INFO - Conteúdo do arquivo ZIP: ['annual.xls']
+2025-04-28 08:54:46,059 - core.unzipper - INFO - Arquivo descompactado e renomeado para: 2024.xls
+2025-04-28 09:09:01,605 - core.processor - INFO - Iniciando o processo de união dos arquivos .xls...
+2025-04-28 09:09:01,605 - core.processor - INFO - 16 arquivos encontrados para processamento.
+2025-04-28 09:09:01,606 - core.processor - INFO - Lendo arquivo: data\processed\2010.xls
+2025-04-28 09:09:01,606 - core.processor - ERROR - Erro ao processar arquivos: Missing optional dependency 'xlrd'. Install xlrd >= 2.0.1 for xls Excel support Use pip or conda to install xlrd.
+2025-04-28 09:09:22,518 - core.processor - INFO - Iniciando o processo de união dos arquivos .xls...
+2025-04-28 09:09:22,518 - core.processor - INFO - 16 arquivos encontrados para processamento.
+2025-04-28 09:09:22,518 - core.processor - INFO - Lendo arquivo: data\processed\2010.xls
+2025-04-28 09:09:23,470 - core.processor - INFO - Lendo arquivo: data\processed\2011.xls
+2025-04-28 09:09:24,359 - core.processor - INFO - Lendo arquivo: data\processed\2012.xls
+2025-04-28 09:09:25,303 - core.processor - INFO - Lendo arquivo: data\processed\2013.xls
+2025-04-28 09:09:26,612 - core.processor - INFO - Lendo arquivo: data\processed\2014.xls
+2025-04-28 09:09:28,067 - core.processor - INFO - Lendo arquivo: data\processed\2015.xls
+2025-04-28 09:09:29,318 - core.processor - INFO - Lendo arquivo: data\processed\2016.xls
+2025-04-28 09:09:30,741 - core.processor - INFO - Lendo arquivo: data\processed\2017.xls
+2025-04-28 09:09:32,079 - core.processor - INFO - Lendo arquivo: data\processed\2018.xls
+2025-04-28 09:09:33,554 - core.processor - INFO - Lendo arquivo: data\processed\2019.xls
+2025-04-28 09:09:34,971 - core.processor - INFO - Lendo arquivo: data\processed\2020.xls
+2025-04-28 09:09:36,349 - core.processor - INFO - Lendo arquivo: data\processed\2021.xls
+2025-04-28 09:09:37,796 - core.processor - INFO - Lendo arquivo: data\processed\2022.xls
+2025-04-28 09:09:39,311 - core.processor - INFO - Lendo arquivo: data\processed\2023.xls
+2025-04-28 09:09:40,967 - core.processor - INFO - Lendo arquivo: data\processed\2024.xls
+2025-04-28 09:09:42,759 - core.processor - INFO - Lendo arquivo: data\processed\2025.xls
+2025-04-28 09:09:48,875 - core.processor - INFO - Arquivo CSV criado com sucesso em: data\processed\cot.csv
+2025-04-28 09:13:15,811 - core.loader - INFO - Carregando o arquivo data\processed\cot.csv...
+2025-04-28 09:13:16,982 - core.loader - INFO - Tratando os dados...
+2025-04-28 09:13:16,984 - core.loader - INFO - Arquivo carregado e tratado com sucesso.
+2025-04-28 09:14:14,489 - core.loader - INFO - Carregando o arquivo data\processed\cot.csv...
+2025-04-28 09:14:15,672 - core.loader - INFO - Tratando os dados...
+2025-04-28 09:14:15,674 - core.loader - INFO - Arquivo carregado e tratado com sucesso.
+2025-04-28 09:14:41,160 - core.loader - INFO - Carregando o arquivo data\processed\cot.csv...
+2025-04-28 09:14:42,289 - core.loader - INFO - Tratando os dados...
+2025-04-28 09:14:42,290 - core.loader - INFO - Arquivo carregado e tratado com sucesso.
